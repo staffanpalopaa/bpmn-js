@@ -89,6 +89,7 @@
     "min-dash": "^3.5.1",
     "min-dom": "^3.0.0",
     "object-refs": "^0.3.0",
+    "svg-path-round-corners": "^0.1.5",
     "tiny-svg": "^2.2.1"
   }
 }
